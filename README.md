@@ -41,3 +41,5 @@ python -m unittest -v
 - This is a single-user command-line application; it has no authentication or access controls.
 - The application validates required text fields and duplicate IDs, but does not enforce a specific ID format or department list.
 - Search matches employee IDs and names; department filtering is a separate operation.
+
+This project is used to demonstrate Git and CI/CD.
